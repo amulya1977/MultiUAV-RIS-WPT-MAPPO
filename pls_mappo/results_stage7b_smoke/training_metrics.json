@@ -1,0 +1,32 @@
+[
+  {
+    "update": 1,
+    "mean_reward": 0.00875527411699295,
+    "mean_secrecy_mbps": 2.1035896885661356,
+    "mean_energy_j": 615.8223461165018,
+    "actor_loss": -0.12044376879930496,
+    "critic_loss": 0.06314191470543544,
+    "approx_kl": 0.016779801911777897,
+    "collision_reversions_per_step": 0.0,
+    "actual_flight_distance_m_per_step": 18.240781582756775,
+    "attempted_flight_distance_m_per_step": 19.804908642766158,
+    "harvested_j_per_step": 2.8376562578424145e-06,
+    "charging_deficit_j_per_step": 0.0001059123437421576,
+    "mean_iot_battery_j": 0.3493666809961808
+  },
+  {
+    "update": 2,
+    "mean_reward": -0.09010916203260422,
+    "mean_secrecy_mbps": 1.1229540804056224,
+    "mean_energy_j": 656.8938461410231,
+    "actor_loss": -0.12726905941963196,
+    "critic_loss": 0.3286147639155388,
+    "approx_kl": 0.009570782315374046,
+    "collision_reversions_per_step": 0.25,
+    "actual_flight_distance_m_per_step": 17.219424146125068,
+    "attempted_flight_distance_m_per_step": 22.135948954419433,
+    "harvested_j_per_step": 1.784728478231822e-06,
+    "charging_deficit_j_per_step": 0.00010634027152176818,
+    "mean_iot_battery_j": 0.07177293564453417
+  }
+]

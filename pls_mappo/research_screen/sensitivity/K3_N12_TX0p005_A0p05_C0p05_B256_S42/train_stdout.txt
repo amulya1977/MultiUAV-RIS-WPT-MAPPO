@@ -1,0 +1,11 @@
+Update 1/10 | reward=0.2231 | secrecy=2.353 Mbps | energy=616.9 J | KL=12.6667
+Update 2/10 | reward=-0.2038 | secrecy=0.024 Mbps | energy=507.2 J | KL=12.6667
+Update 3/10 | reward=-0.0504 | secrecy=0.728 Mbps | energy=507.3 J | KL=12.6667
+Update 4/10 | reward=-0.0733 | secrecy=0.849 Mbps | energy=482.8 J | KL=12.6667
+Update 5/10 | reward=-0.1542 | secrecy=0.482 Mbps | energy=490.4 J | KL=12.6667
+Update 6/10 | reward=0.0295 | secrecy=1.364 Mbps | energy=485.8 J | KL=12.6667
+Update 7/10 | reward=-0.0957 | secrecy=0.780 Mbps | energy=491.2 J | KL=12.6667
+Update 8/10 | reward=0.0512 | secrecy=1.248 Mbps | energy=482.8 J | KL=12.6667
+Update 9/10 | reward=-0.1436 | secrecy=0.592 Mbps | energy=490.2 J | KL=12.6667
+Update 10/10 | reward=0.0012 | secrecy=0.922 Mbps | energy=483.0 J | KL=12.6667
+Training completed. Saved checkpoint and metrics in pls_mappo\research_screen\sensitivity\K3_N12_TX0p005_A0p05_C0p05_B256_S42

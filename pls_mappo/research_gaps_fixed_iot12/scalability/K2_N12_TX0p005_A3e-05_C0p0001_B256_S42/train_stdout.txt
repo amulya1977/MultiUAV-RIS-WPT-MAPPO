@@ -1,0 +1,11 @@
+Update 1/10 | reward=0.0760 | secrecy=1.721 Mbps | energy=438.5 J | KL=0.0114
+Update 2/10 | reward=-0.0064 | secrecy=1.153 Mbps | energy=441.7 J | KL=0.0089
+Update 3/10 | reward=0.1132 | secrecy=1.452 Mbps | energy=434.1 J | KL=0.0107
+Update 4/10 | reward=0.0137 | secrecy=1.241 Mbps | energy=434.4 J | KL=0.0074
+Update 5/10 | reward=0.0441 | secrecy=1.394 Mbps | energy=441.2 J | KL=0.0089
+Update 6/10 | reward=0.1099 | secrecy=1.377 Mbps | energy=442.7 J | KL=0.0088
+Update 7/10 | reward=0.0214 | secrecy=1.150 Mbps | energy=418.0 J | KL=0.0027
+Update 8/10 | reward=0.0810 | secrecy=1.444 Mbps | energy=428.8 J | KL=0.0093
+Update 9/10 | reward=-0.0112 | secrecy=1.134 Mbps | energy=423.2 J | KL=0.0100
+Update 10/10 | reward=0.1496 | secrecy=1.623 Mbps | energy=431.7 J | KL=0.0064
+Training completed. Saved checkpoint and metrics in pls_mappo\research_gaps_fixed_iot12\scalability\K2_N12_TX0p005_A3e-05_C0p0001_B256_S42

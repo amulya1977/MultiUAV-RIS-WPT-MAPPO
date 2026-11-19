@@ -1,0 +1,23 @@
+{
+  "updates": 100,
+  "rollout_steps": 128,
+  "episode_steps": 100,
+  "ppo_epochs": 4,
+  "minibatch_size": 128,
+  "actor_hidden": 256,
+  "critic_hidden": 512,
+  "actor_lr": 3e-05,
+  "critic_lr": 3e-05,
+  "gamma": 0.99,
+  "gae_lambda": 0.95,
+  "clip": 0.2,
+  "entropy_coef": 0.01,
+  "target_kl": 0.03,
+  "seed": 42,
+  "collision_penalty": 0.2,
+  "charging_deficit_penalty": 0.1,
+  "target_harvest_j": 1e-05,
+  "save_every": 25,
+  "device": "cpu",
+  "output_dir": "pls_mappo/results_stage7c_100"
+}

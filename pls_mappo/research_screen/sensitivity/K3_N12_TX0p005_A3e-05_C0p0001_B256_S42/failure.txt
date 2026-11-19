@@ -1,0 +1,7 @@
+training exit code 2:                  [--seed SEED] [--collision-penalty COLLISION_PENALTY]
+                      [--charging-deficit-penalty CHARGING_DEFICIT_PENALTY]
+                      [--target-harvest-j TARGET_HARVEST_J]
+                      [--save-every SAVE_EVERY] [--device DEVICE]
+                      [--output-dir OUTPUT_DIR]
+                      [--iot-tx-power-w IOT_TX_POWER_W]
+train_mappo.py: error: unrecognized arguments: --num-uavs 3 --num-iot 12

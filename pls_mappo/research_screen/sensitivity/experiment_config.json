@@ -1,0 +1,14 @@
+{
+  "mode": "sensitivity",
+  "grid": "paired",
+  "updates": 10,
+  "rollout_steps": 256,
+  "episode_steps": 100,
+  "eval_episodes": 5,
+  "eval_seed_start": 3000,
+  "train_seeds": [
+    42
+  ],
+  "output_dir": "pls_mappo/research_screen",
+  "max_cases": 0
+}

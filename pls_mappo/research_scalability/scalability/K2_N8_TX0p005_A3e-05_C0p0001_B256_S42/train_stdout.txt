@@ -1,0 +1,11 @@
+Update 1/10 | reward=0.1206 | secrecy=1.504 Mbps | energy=461.1 J | KL=0.0119
+Update 2/10 | reward=0.1180 | secrecy=1.294 Mbps | energy=443.2 J | KL=0.0114
+Update 3/10 | reward=0.1848 | secrecy=1.616 Mbps | energy=456.3 J | KL=0.0083
+Update 4/10 | reward=0.1068 | secrecy=1.425 Mbps | energy=455.1 J | KL=0.0076
+Update 5/10 | reward=0.2116 | secrecy=1.634 Mbps | energy=443.4 J | KL=0.0084
+Update 6/10 | reward=0.1471 | secrecy=1.514 Mbps | energy=438.1 J | KL=0.0088
+Update 7/10 | reward=0.0855 | secrecy=1.159 Mbps | energy=444.4 J | KL=0.0107
+Update 8/10 | reward=0.1683 | secrecy=1.516 Mbps | energy=431.5 J | KL=0.0067
+Update 9/10 | reward=0.0047 | secrecy=0.908 Mbps | energy=434.1 J | KL=0.0109
+Update 10/10 | reward=0.2014 | secrecy=1.567 Mbps | energy=444.6 J | KL=0.0067
+Training completed. Saved checkpoint and metrics in pls_mappo\research_scalability\scalability\K2_N8_TX0p005_A3e-05_C0p0001_B256_S42

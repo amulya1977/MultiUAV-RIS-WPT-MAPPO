@@ -1,0 +1,42 @@
+[
+  {
+    "horizontal_distance_m": 0,
+    "slant_distance_m": 40.0,
+    "mean_gain_direct": 3.026392944382781e-07,
+    "mean_gain_ris_zero_phase": 3.3485850365827387e-07,
+    "mean_gain_ris_ideal_phase_upper_bound": 3.444616237752988e-07,
+    "mean_harvest_uJ_at_half_slot": 1.0045755109748216,
+    "consumption_uJ_at_half_slot": 27500.0,
+    "harvest_to_consumption_ratio": 3.65300185809026e-05
+  },
+  {
+    "horizontal_distance_m": 20,
+    "slant_distance_m": 44.721359549995796,
+    "mean_gain_direct": 2.375194375139468e-07,
+    "mean_gain_ris_zero_phase": 2.564847758665337e-07,
+    "mean_gain_ris_ideal_phase_upper_bound": 2.6225354587305116e-07,
+    "mean_harvest_uJ_at_half_slot": 0.7694543275996011,
+    "consumption_uJ_at_half_slot": 27500.0,
+    "harvest_to_consumption_ratio": 2.798015736725822e-05
+  },
+  {
+    "horizontal_distance_m": 50,
+    "slant_distance_m": 64.03124237432849,
+    "mean_gain_direct": 1.0392751422526827e-07,
+    "mean_gain_ris_zero_phase": 1.0646152375844043e-07,
+    "mean_gain_ris_ideal_phase_upper_bound": 1.0894453295492572e-07,
+    "mean_harvest_uJ_at_half_slot": 0.31938457127532127,
+    "consumption_uJ_at_half_slot": 27500.0,
+    "harvest_to_consumption_ratio": 1.1613984410011682e-05
+  },
+  {
+    "horizontal_distance_m": 100,
+    "slant_distance_m": 107.70329614269008,
+    "mean_gain_direct": 1.7048917655102954e-08,
+    "mean_gain_ris_zero_phase": 1.71306067920621e-08,
+    "mean_gain_ris_ideal_phase_upper_bound": 1.7682828910226606e-08,
+    "mean_harvest_uJ_at_half_slot": 0.0513918203761863,
+    "consumption_uJ_at_half_slot": 27500.0,
+    "harvest_to_consumption_ratio": 1.8687934682249563e-06
+  }
+]
